@@ -1,0 +1,1 @@
+{"name":"Local: music","url":"c:\\Users\\anmol\\Desktop\\emotionMusic\\music.py","tests":[{"id":1730097461406,"input":"sad","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\anmol\\Desktop\\emotionMusic\\music.py","group":"local","local":true}
